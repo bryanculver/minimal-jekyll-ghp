@@ -1,5 +1,7 @@
 # Minimal Theme (Now with GitHub Pages Safe Jekyll!)
 
+*Note: I created this project before stumbling on this: [GitHub Pages Minimal Theme](https://github.com/pages-themes/minimal). For simplicity sake, that theme is a listed supported theme which means you can just flag it in your `_config.yml` file. This theme uses a bit more templating, so feel free to contribute, fork, use whichever theme you choose.*
+
 ## Heads up! Like this theme? Want some `jekyll-assets` sauce? Don't use GitHub pages?
 
 Then you might like this version better: [bryanculver/minimal-jekyll](https://github.com/bryanculver/minimal-jekyll)
