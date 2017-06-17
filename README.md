@@ -4,7 +4,7 @@
 
 Then you might like this version better: [bryanculver/minimal-jekyll](https://github.com/bryanculver/minimal-jekyll)
 
-[Demo the Theme](https://bryanculver.github.io/minimial-jekyll-ghp/)
+[Demo the Theme](https://bryanculver.github.io/minimal-jekyll-ghp/)
 
 This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 

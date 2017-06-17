@@ -3,8 +3,8 @@ email: me@bryanculver.com
 description: A fork of @orderlist's Minimal theme, built for GitHub Pages + Jekyll
 
 # HEADS UP: Change these for your use
-baseurl: "/minimial-jekyll-ghp/" 
-url: "https://bryanculver.github.io/minimial-jekyll-ghp/"
+baseurl: "/minimal-jekyll-ghp/" 
+url: "https://bryanculver.github.io/minimal-jekyll-ghp/"
 
 
 # Build settings
@@ -18,4 +18,4 @@ exclude:
 
 
 # Development Parameter for Puma 
-destination: "public/minimial-jekyll-ghp"
+destination: "public/minimal-jekyll-ghp"
