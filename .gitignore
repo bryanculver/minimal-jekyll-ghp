@@ -1,0 +1,11 @@
+
+
+# Files from local Puma development
+.env
+.envrc
+.asset-cache/
+Gemfile
+Gemfile.lock
+config.ru
+tmp/
+public/

@@ -1,0 +1,30 @@
+title: minimal-jekyll
+email: me@bryanculver.com
+description: A fork of @orderlist's Minimal theme, built for Jekyll
+baseurl: "/" 
+url: "https://minimal-jekyll.lo/"
+destination: public
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+gems:
+  - jekyll-assets
+
+assets:
+  compress:
+    css: true
+    js: true
+    
+  prefix: "/assets"
+  digest: true
+
+babel_js_extensions: 'es6, babel, jsx'
+  
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - /tmp/
+  - config.ru
