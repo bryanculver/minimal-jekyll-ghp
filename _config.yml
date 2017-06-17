@@ -1,30 +1,21 @@
-title: minimal-jekyll
+title: minimal-jekyll-ghp
 email: me@bryanculver.com
-description: A fork of @orderlist's Minimal theme, built for Jekyll
-baseurl: "/" 
-url: "https://minimal-jekyll.lo/"
-destination: public
+description: A fork of @orderlist's Minimal theme, built for GitHub Pages + Jekyll
+
+# HEADS UP: Change these for your use
+baseurl: "/minimial-jekyll-ghp/" 
+url: "https://bryanculver.github.io/minimial-jekyll-ghp/"
+
 
 # Build settings
 markdown: kramdown
 
-sass:
-  style: compressed
-gems:
-  - jekyll-assets
-
-assets:
-  compress:
-    css: true
-    js: true
-    
-  prefix: "/assets"
-  digest: true
-
-babel_js_extensions: 'es6, babel, jsx'
-  
 exclude:
   - Gemfile
   - Gemfile.lock
   - /tmp/
   - config.ru
+
+
+# Development Parameter for Puma 
+destination: "public/minimial-jekyll-ghp"
